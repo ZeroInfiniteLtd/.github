@@ -85,6 +85,13 @@ When maintenance disappears, innovation accelerates.
 
 ---
 
+
+🔹 Architecture Frameworks & Modelling
+<p align="left"><img src="https://img.shields.io/badge/TOGAF-512BD4?style=for-the-badge&logo=theopengroup&logoColor=white" /><img src="https://img.shields.io/badge/Zachman-000000?style=for-the-badge&logo=theopengroup&logoColor=white" /><img src="https://img.shields.io/badge/ArchiMate-0F6CBF?style=for-the-badge&logo=theopengroup&logoColor=white" /><img src="https://img.shields.io/badge/BPMN-005F99?style=for-the-badge&logo=uml&logoColor=white" /><img src="https://img.shields.io/badge/UML-FAA916?style=for-the-badge&logo=uml&logoColor=white" /><img src="https://img.shields.io/badge/SysML-005F99?style=for-the-badge&logo=uml&logoColor=white" /></p>
+
+🔹 Security & Governance
+<p align="left"><img src="https://img.shields.io/badge/Zero_Trust-000000?style=for-the-badge&logo=databricks&logoColor=white" /><img src="https://img.shields.io/badge/NCSC_Compliance-000000?style=for-the-badge&logo=gov.uk&logoColor=white" /><img src="https://img.shields.io/badge/CIS_Hardening-003366?style=for-the-badge&logo=security&logoColor=white" /><img src="https://img.shields.io/badge/PKI/HSM-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" /></p>
+
 🔹 Languages & Programming
 <p align="left"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /><img src="https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white" /><img src="https://img.shields.io/badge/Q%23-512BD4?style=for-the-badge&logo=quantconnect&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" /><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><img src="https://img.shields.io/badge/Visual_C++-00599C?style=for-the-badge&logo=visualstudio&logoColor=white" /><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /></p>
 
@@ -102,12 +109,6 @@ When maintenance disappears, innovation accelerates.
 
 🔹 Databases & Data Engineering
 <p align="left"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/ETL/ELT-000000?style=for-the-badge&logo=apacheairflow&logoColor=white" /><img src="https://img.shields.io/badge/Data_Mesh-000000?style=for-the-badge&logo=databricks&logoColor=white" /></p>
-
-🔹 Architecture Frameworks & Modelling
-<p align="left"><img src="https://img.shields.io/badge/TOGAF-512BD4?style=for-the-badge&logo=theopengroup&logoColor=white" /><img src="https://img.shields.io/badge/Zachman-000000?style=for-the-badge&logo=theopengroup&logoColor=white" /><img src="https://img.shields.io/badge/ArchiMate-0F6CBF?style=for-the-badge&logo=theopengroup&logoColor=white" /><img src="https://img.shields.io/badge/BPMN-005F99?style=for-the-badge&logo=uml&logoColor=white" /><img src="https://img.shields.io/badge/UML-FAA916?style=for-the-badge&logo=uml&logoColor=white" /><img src="https://img.shields.io/badge/SysML-005F99?style=for-the-badge&logo=uml&logoColor=white" /></p>
-
-🔹 Security & Governance
-<p align="left"><img src="https://img.shields.io/badge/Zero_Trust-000000?style=for-the-badge&logo=databricks&logoColor=white" /><img src="https://img.shields.io/badge/NCSC_Compliance-000000?style=for-the-badge&logo=gov.uk&logoColor=white" /><img src="https://img.shields.io/badge/CIS_Hardening-003366?style=for-the-badge&logo=security&logoColor=white" /><img src="https://img.shields.io/badge/PKI/HSM-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" /></p>
 
 🔹 Specialist Tools & Technologies
 <p align="left"><img src="https://img.shields.io/badge/HoloLens-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /><img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /></p>
