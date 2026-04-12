@@ -58,7 +58,8 @@ We focus on **clean architecture**, **automation**, and **SOLID principles**.
 - Observability: logging, telemetry, self‑healing systems  
 - Quantum computing research & hybrid classical‑quantum workflows
 - AI (LLM/SLM) expertise for public and private cloud deployment
-- Secure API design, distributed systems, and cloud‑native patterns  
+- Secure API design, distributed systems, and cloud‑native patterns
+- Quantum and AI development using Microsoft Q#, ML.NET, Microsoft Agent Framework, Microsoft Quantum, Microsoft Foundry; and Python with QisKit, PyTorch, LangChain and others
 
 We believe in systems that are **elegant, maintainable, and future‑proof**.
 
@@ -81,3 +82,5 @@ Systems should run, scale, and heal without constant human intervention.
 
 **Infinite Possibilities**  
 When maintenance disappears, innovation accelerates.
+
+<p align="left"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" /><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" /><img src="https://img.shields.io/badge/Bicep-0052CC?style=for-the-badge&logo=microsoftazure&logoColor=white" /><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/Quantum_Computing-000000?style=for-the-badge&logo=quantconnect&logoColor=white" /></p>
