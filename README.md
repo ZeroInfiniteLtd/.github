@@ -19,4 +19,4 @@ To redefine what “zero maintenance” means — creating systems that **self-h
 
 ### Connect With Us  
 - **Azure DevOps Organisation:** [Zero Infinite Ltd on Azure DevOps](https://zeroinfiniteltd.visualstudio.com/)  
-- **GitHub Organisation:** Zero Infinite Ltd [(Zero Infinite Ltd on GitHub)](https://github.com/ZeroInfiniteLtd/)
+- **GitHub Organisation:** [Zero Infinite Ltd on GitHub](https://github.com/ZeroInfiniteLtd/)
