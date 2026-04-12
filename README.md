@@ -8,7 +8,8 @@
 Zero Infinite Ltd is a UK‑based technology company focused on building **automated, resilient, and self‑maintaining digital systems**.  
 Our mission is simple: remove the burden of maintenance so organisations can focus on innovation, scale, and long‑term growth.
 
-We combine **enterprise engineering**, **modern cloud architecture**, and **cutting‑edge research** — including hands‑on experience developing solutions for **quantum computers**, showcased in our founder’s personal work:  
+We combine **enterprise engineering**, **modern cloud architecture**, and **cutting‑edge research** — including hands‑on experience developing solutions for **quantum computers**, showcased in our founder’s personal work:
+
 🔗 **Projects by Shiraz Adam (Founder)** — [https://github.com/shirazadam/](https://github.com/shirazadam/)
 
 ---
