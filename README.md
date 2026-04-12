@@ -83,6 +83,8 @@ Systems should run, scale, and heal without constant human intervention.
 **Infinite Possibilities**  
 When maintenance disappears, innovation accelerates.
 
+---
+
 🔹 Languages & Programming
 <p align="left"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /><img src="https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white" /><img src="https://img.shields.io/badge/Q%23-512BD4?style=for-the-badge&logo=quantconnect&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" /><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><img src="https://img.shields.io/badge/Visual_C++-00599C?style=for-the-badge&logo=visualstudio&logoColor=white" /><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /></p>
 
