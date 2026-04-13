@@ -10,7 +10,7 @@ Our mission is simple: remove the burden of maintenance so organisations can foc
 
 We combine **modern cloud architecture**, **enterprise engineering**, and **cutting‑edge research** — including hands‑on experience developing solutions for **quantum computers**, and **AI** showcased in our founder’s personal work:
 
-🔗 **Projects by Shiraz Adam (Founder)** — [https://github.com/shirazadam/](https://github.com/shirazadam/)
+🔗 **Projects by Shiraz Adam (Founder)** — [https://github.com/ShirazAdam/](https://github.com/ShirazAdam/)
 
 ---
 
@@ -72,7 +72,7 @@ We believe in systems that are **elegant, maintainable, and future‑proof**.
 
 ### **GitHub Organisation**  [https://github.com/ZeroInfiniteLtd/](https://github.com/ZeroInfiniteLtd/)
 
-### **Founder’s Projects**  [https://github.com/shirazadam/](https://github.com/shirazadam/)
+### **Founder’s Projects**  [https://github.com/ShirazAdam/](https://github.com/ShirazAdam/)
 
 ---
 
