@@ -70,7 +70,7 @@ We believe in systems that are **elegant, maintainable, and future‑proof**.
 
 ### **Azure DevOps Organisation**  [https://zeroinfiniteltd.visualstudio.com/](https://zeroinfiniteltd.visualstudio.com/) or [https://dev.azure.com/zeroinfiniteltd/](https://dev.azure.com/zeroinfiniteltd/) 
 
-### **GitHub Organisation**  [https://github.com/ZeroInfiniteLtd](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FZeroInfiniteLtd")
+### **GitHub Organisation**  [https://github.com/ZeroInfiniteLtd/](https://github.com/ZeroInfiniteLtd/)
 
 ### **Founder’s Projects**  [https://github.com/shirazadam/](https://github.com/shirazadam/)
 
