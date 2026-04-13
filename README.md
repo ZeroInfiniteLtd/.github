@@ -68,7 +68,7 @@ We believe in systems that are **elegant, maintainable, and future‑proof**.
 
 ## 🔗 **Organisation Links**
 
-### **Azure DevOps Organisation**  [https://zeroinfiniteltd.visualstudio.com/](https://zeroinfiniteltd.visualstudio.com/) or [https://dev.azure.com/zeroinfiniteltd/](https://dev.azure.com/zeroinfiniteltd/) 
+### **Azure DevOps Organisation**  [https://ZeroInfiniteLtd.visualstudio.com/](https://ZeroInfiniteLtd.visualstudio.com/) or [https://dev.azure.com/ZeroInfiniteLtd/](https://dev.azure.com/ZeroInfiniteLtd/) 
 
 ### **GitHub Organisation**  [https://github.com/ZeroInfiniteLtd/](https://github.com/ZeroInfiniteLtd/)
 
